@@ -10,12 +10,12 @@
 简单的介绍一下实现：
 [高仿QQ录音功能模块实现](https://juejin.im/post/5a3bc79ff265da43152415f6) 
 
-![界面](https://github.com/ChavezChen/QQVoiceDemo/blob/master/界面1.png)
+![界面](https://github.com/KeenTeam1990/QQVoiceDemo/blob/master/界面1.png)
 
-![界面](https://github.com/ChavezChen/QQVoiceDemo/blob/master/界面2.png)
+![界面](https://github.com/KeenTeam1990/QQVoiceDemo/blob/master/界面2.png)
 
-![界面](https://github.com/ChavezChen/QQVoiceDemo/blob/master/界面3.png)
+![界面](https://github.com/KeenTeam1990/QQVoiceDemo/blob/master/界面3.png)
 
-![界面](https://github.com/ChavezChen/QQVoiceDemo/blob/master/界面4.png)
+![界面](https://github.com/KeenTeam1990/QQVoiceDemo/blob/master/界面4.png)
 
 
